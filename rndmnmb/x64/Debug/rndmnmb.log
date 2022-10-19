@@ -1,0 +1,10 @@
+﻿  main.cpp
+D:\AI Engineering\APRG\RN\RN\nrutil_nr.h(43,12): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+D:\AI Engineering\APRG\RN\RN\nrutil_nr.h(468,49): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+D:\AI Engineering\APRG\RN\RN\nrutil_nr.h(469,49): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+D:\AI Engineering\APRG\RN\RN\nrutil_nr.h(470,53): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+D:\AI Engineering\APRG\RN\RN\nrutil_nr.h(471,53): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+D:\AI Engineering\APRG\RN\RN\main.cpp(13,20): warning C4267: 'argument': conversion from 'size_t' to 'const int', possible loss of data
+D:\AI Engineering\APRG\RN\RN\main.cpp(20,12): warning C4101: 'klim': unreferenced local variable
+D:\AI Engineering\APRG\RN\RN\main.cpp(23,5): warning C4101: 'dd': unreferenced local variable
+  rndmnmb.vcxproj -> D:\Programs\VS 2022\Repos\rndmnmb\x64\Debug\rndmnmb.exe
